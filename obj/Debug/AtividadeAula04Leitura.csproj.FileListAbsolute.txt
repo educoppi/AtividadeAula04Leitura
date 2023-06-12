@@ -1,0 +1,16 @@
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.exe
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.pdb
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.exe
+C:\Users\Dudu\source\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.pdb
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.exe.config
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.exe
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\bin\Debug\AtividadeAula04Leitura.pdb
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.exe
+C:\Users\Dudu\Desktop\repos\AtividadeAula04Leitura\AtividadeAula04Leitura\obj\Debug\AtividadeAula04Leitura.pdb
